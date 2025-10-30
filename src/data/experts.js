@@ -1,3 +1,5 @@
+const BASE_URL = import.meta.env.BASE_URL;
+
 export const experts = [
   {
     id: 'hong-jooseok',
@@ -6,7 +8,7 @@ export const experts = [
     role: '대표',
     specialty: '도시재생 및 공간 혁신',
     bio: '어반플레이를 통해 도시 공간의 새로운 가능성을 탐구하며, 공공과 민간의 협업을 통한 도시재생 프로젝트를 이끌고 있습니다.',
-    image: '/images/experts/hong-jooseok.jpg',
+    image: `${BASE_URL}images/experts/hong-jooseok.jpg`,
     links: [
       {
         title: '세운상가에 놀이터를 만든 사람',
@@ -47,7 +49,7 @@ export const experts = [
     role: '대표',
     specialty: '팝업스토어 및 임시공간 기획',
     bio: '프로젝트 렌트를 통해 팝업스토어와 임시공간의 새로운 패러다임을 제시하며, 공간을 통한 브랜드 경험 디자인을 선도하고 있습니다.',
-    image: '/images/experts/choi-wonseok.jpg',
+    image: `${BASE_URL}images/experts/choi-wonseok.jpg`,
     links: [
       {
         title: '팝업스토어의 미래를 말하다',
@@ -77,7 +79,7 @@ export const experts = [
     role: '대표',
     specialty: '라이프스타일 브랜드 및 편집샵 운영',
     bio: '보마켓을 통해 큐레이션된 라이프스타일 공간을 만들며, 브랜드와 공간의 조화로운 경험을 제공하고 있습니다.',
-    image: '/images/experts/na-hoonyoung.jpg',
+    image: `${BASE_URL}images/experts/na-hoonyoung.jpg`,
     links: [
       {
         title: '보마켓이 만드는 라이프스타일 공간',
@@ -107,7 +109,7 @@ export const experts = [
     role: '대표',
     specialty: '로컬 브랜딩 및 지역 활성화',
     bio: '로컬스티치를 통해 지역의 고유한 가치를 발굴하고, 지속가능한 로컬 비즈니스 생태계를 구축하고 있습니다.',
-    image: '/images/experts/kim-sumin.jpg',
+    image: `${BASE_URL}images/experts/kim-sumin.jpg`,
     links: [
       {
         title: '로컬 크리에이터의 길',
@@ -144,7 +146,7 @@ export const experts = [
     role: '대표',
     specialty: '공간 기획 및 전시 디자인',
     bio: '스튜디오 음머를 통해 독창적인 공간 경험을 디자인하며, 전시와 이벤트 공간의 새로운 가능성을 탐구하고 있습니다.',
-    image: '/images/experts/cha-jae.jpg',
+    image: `${BASE_URL}images/experts/cha-jae.jpg`,
     links: [
       {
         title: '공간을 통해 이야기를 만드는 디자이너',
@@ -174,7 +176,7 @@ export const experts = [
     role: '대표',
     specialty: '패션 스페이스 및 편집샵 큐레이팅',
     bio: '에딧시티 프로젝트를 통해 패션과 공간의 융합을 시도하며, 독립 디자이너 브랜드를 위한 플랫폼을 운영하고 있습니다.',
-    image: '/images/experts/nam-yoonju.jpg',
+    image: `${BASE_URL}images/experts/nam-yoonju.jpg`,
     links: [
       {
         title: '에딧시티가 제안하는 패션 공간',
@@ -204,7 +206,7 @@ export const experts = [
     role: '교수',
     specialty: '도시계획 및 스마트시티',
     bio: '충남대 DIT Lab에서 도시계획과 스마트시티 연구를 진행하며, 데이터 기반의 도시 문제 해결 방법을 연구하고 있습니다.',
-    image: '/images/experts/yoon-jooseon.jpg',
+    image: `${BASE_URL}images/experts/yoon-jooseon.jpg`,
     links: [
       {
         title: '스마트시티의 미래',
