@@ -1,0 +1,224 @@
+{
+  "site": {
+    "name": "Soft Developer Club",
+    "tagline": "We don't design cities",
+    "subtitle": "We operate, experiment, and learn together"
+  },
+  "nav": {
+    "about": "About",
+    "members": "Members",
+    "programs": "Programs",
+    "apply": "Apply",
+    "contact": "Contact",
+    "login": "Login",
+    "signup": "Sign Up",
+    "logout": "Logout",
+    "membership": "Membership",
+    "blog": "Insights"
+  },
+  "home": {
+    "hero_title": "We don't\ndesign cities",
+    "hero_subtitle": "We operate, experiment, and learn together",
+    "view_programs": "View Programs",
+    "philosophy_title": "Soft Developer Club",
+    "philosophy_desc1": "Space is not simply designed—it's operated and evolved.",
+    "philosophy_desc2": "We view cities and spaces as subjects of experimentation, continuously learning and growing together as a community.",
+    "members_title": "Members",
+    "members_subtitle": "People experimenting with space in their own fields",
+    "view_all_members": "View All Members",
+    "programs_title": "Programs",
+    "programs_subtitle": "Learning paths tailored to your needs",
+    "cta_title": "Learn together\nExperiment together",
+    "cta_subtitle": "Space education with Soft Developer Club",
+    "apply_now": "Apply Now",
+    "contact_us": "Contact Us"
+  },
+  "programs": {
+    "students": {
+      "title": "Student Program",
+      "description": "From space planning basics to hands-on projects"
+    },
+    "entrepreneurs": {
+      "title": "Entrepreneur Program",
+      "description": "Everything about space business"
+    },
+    "b2b": {
+      "title": "B2B Training",
+      "description": "Customized programs for companies"
+    },
+    "consulting": {
+      "title": "1:1 Consulting",
+      "description": "Private sessions with experts for real estate, space planning, and architecture projects in Seoul"
+    }
+  },
+  "membership": {
+    "title": "Membership",
+    "subtitle": "Choose the membership that's right for you",
+    "student": {
+      "title": "Student Member",
+      "price": "Free",
+      "features": [
+        "Access to all programs",
+        "Community access",
+        "Monthly newsletter",
+        "Basic resource downloads"
+      ]
+    },
+    "free": {
+      "title": "Free Member",
+      "price": "Free",
+      "features": [
+        "Access to all programs",
+        "Community access",
+        "Monthly newsletter",
+        "Basic resource downloads",
+        "Online event participation"
+      ]
+    },
+    "mentor": {
+      "title": "Mentor Member",
+      "price": "$90 / month",
+      "features": [
+        "All free member benefits",
+        "Priority access to offline events",
+        "1:1 networking opportunities",
+        "Project consultation requests",
+        "Expert network access",
+        "Ecosystem supporter certification"
+      ],
+      "description": "Special membership for building owners, investors, industry experts, and professionals. Support the ecosystem and grow together."
+    },
+    "join": "Join Now",
+    "current_plan": "Current Plan"
+  },
+  "auth": {
+    "signup_title": "Sign Up",
+    "login_title": "Login",
+    "email": "Email",
+    "password": "Password",
+    "confirm_password": "Confirm Password",
+    "name": "Name",
+    "phone": "Phone",
+    "member_type": "Member Type",
+    "student_id": "Student ID (Optional)",
+    "agree_terms": "I agree to the Terms of Service and Privacy Policy",
+    "subscribe_newsletter": "Subscribe to newsletter",
+    "signup": "Sign Up",
+    "login": "Login",
+    "already_member": "Already a member?",
+    "not_member": "Not a member yet?",
+    "forgot_password": "Forgot password?",
+    "logout_success": "Logged out successfully",
+    "logout_error": "Failed to logout",
+    "login_success": "Login successful",
+    "login_error": "Login failed",
+    "signup_success": "Sign up successful",
+    "signup_error": "Sign up failed",
+    "signing_up": "Signing up...",
+    "logging_in": "Logging in...",
+    "password_mismatch": "Passwords do not match",
+    "agree_terms_required": "Please agree to the terms"
+  },
+  "newsletter": {
+    "title": "Newsletter Subscription",
+    "description": "Get the latest news and insights",
+    "placeholder": "Email address",
+    "subscribe": "Subscribe",
+    "success": "Successfully subscribed!",
+    "error": "Subscription failed. Please try again."
+  },
+  "footer": {
+    "description": "We don't design cities.\nWe operate, experiment,\nand learn together.",
+    "links": "Links",
+    "contact": "Contact",
+    "copyright": "© 2025 Soft Developer Club. All rights reserved."
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Reach out for consulting on real estate, space planning, or architecture projects in Seoul",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "send": "Send",
+    "success": "Your inquiry has been received. We'll respond soon.",
+    "address_label": "Address",
+    "address": "Gangnam-gu, Seoul, Korea\nTeheran-ro 123\nSoft Developer Club Building, 5F",
+    "phone_hours": "Weekdays 10:00 - 18:00",
+    "social": "Social"
+  },
+  "experts": {
+    "title": "Members",
+    "subtitle": "Professionals experimenting and operating spaces in Seoul and across Korea",
+    "not_found": "Member not found",
+    "back_to_list": "Back to Members",
+    "interview_articles": "Interviews & Articles",
+    "view_all": "View All Members"
+  },
+  "curriculum": {
+    "title": "Curriculum",
+    "subtitle": "Learn and experiment with space planning and urban development in Seoul"
+  },
+  "schedule": {
+    "title": "Apply",
+    "subtitle": "Program Schedule & Application"
+  },
+  "blog": {
+    "title": "Insights",
+    "subtitle": "Weekly insights from space planning experts in Seoul",
+    "no_articles": "No articles yet.",
+    "read_more": "Read more",
+    "newsletter_title": "Newsletter Subscription",
+    "newsletter_subtitle": "Receive weekly insights from our Seoul-based space experts",
+    "newsletter_note": "Automatically subscribed upon registration",
+    "members_only": "Members Only",
+    "members_only_desc": "This page is only available to registered members.",
+    "login_or_signup": "Please log in or sign up to access."
+  },
+  "admin": {
+    "title": "Admin Dashboard",
+    "subtitle": "Manage write links and articles",
+    "login_title": "Admin Login",
+    "password_placeholder": "Password",
+    "generate_links": "Generate Write Links",
+    "select_experts": "Select Experts",
+    "generate_button": "Generate Links for Selected Experts",
+    "generated_links": "Generated Links",
+    "no_links": "No links generated.",
+    "created": "Created",
+    "used": "Used",
+    "copy_link": "Copy Link",
+    "link_copied": "Link copied!",
+    "articles_management": "Articles Management",
+    "no_articles": "No articles yet.",
+    "delete": "Delete",
+    "delete_confirm": "Are you sure you want to delete this article?",
+    "newsletter": "Newsletter",
+    "weekly_newsletter": "This Week's Newsletter",
+    "articles_count": "Articles from the past 7 days",
+    "articles_included": "Articles to include:",
+    "send_newsletter": "Send Newsletter",
+    "sending": "Sending...",
+    "no_articles_week": "No articles to send this week.",
+    "send_confirm": "Send newsletter with articles?",
+    "newsletter_sent": "Newsletter sent to subscribers!",
+    "newsletter_failed": "Failed to send newsletter.",
+    "dev_note": "* Preview window opens in development mode.",
+    "prod_note": "* Emails will be sent to subscribers in production."
+  },
+  "writeArticle": {
+    "title": "Write Article",
+    "greeting": "Hello",
+    "title_label": "Title",
+    "title_placeholder": "Enter article title",
+    "content_label": "Content",
+    "content_placeholder": "Enter content",
+    "submit": "Publish",
+    "submitting": "Publishing...",
+    "loading": "Loading...",
+    "invalid_link": "Invalid Link",
+    "invalid_desc": "This link has expired or has already been used.",
+    "invalid_contact": "Please contact the administrator for a new link.",
+    "success": "Article published successfully!",
+    "error": "Failed to publish article. Please try again."
+  }
+}

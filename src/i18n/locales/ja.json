@@ -1,0 +1,224 @@
+{
+  "site": {
+    "name": "ソフトデベロッパークラブ",
+    "tagline": "私たちは都市を設計しない",
+    "subtitle": "私たちは運営し、実験し、共に学ぶ"
+  },
+  "nav": {
+    "about": "紹介",
+    "members": "メンバー",
+    "programs": "プログラム",
+    "apply": "申込",
+    "contact": "問合せ",
+    "login": "ログイン",
+    "signup": "会員登録",
+    "logout": "ログアウト",
+    "membership": "メンバーシップ",
+    "blog": "インサイト"
+  },
+  "home": {
+    "hero_title": "私たちは都市を\n設計しない",
+    "hero_subtitle": "私たちは運営し、実験し、共に学ぶ",
+    "view_programs": "プログラムを見る",
+    "philosophy_title": "ソフトデベロッパークラブ",
+    "philosophy_desc1": "空間は単に設計されるものではなく、運営され進化するものです。",
+    "philosophy_desc2": "私たちは都市と空間を実験の対象として捉え、絶えず学びながら共に成長するコミュニティです。",
+    "members_title": "メンバー",
+    "members_subtitle": "各分野で空間を実験する人々",
+    "view_all_members": "全メンバーを見る",
+    "programs_title": "プログラム",
+    "programs_subtitle": "各自のニーズに合った学習コース",
+    "cta_title": "共に学び\n共に実験しよう",
+    "cta_subtitle": "ソフトデベロッパークラブと共にする空間教育",
+    "apply_now": "今すぐ申込",
+    "contact_us": "お問い合わせ"
+  },
+  "programs": {
+    "students": {
+      "title": "学生コース",
+      "description": "空間企画の基礎から実践まで"
+    },
+    "entrepreneurs": {
+      "title": "起業家コース",
+      "description": "空間ビジネスのすべて"
+    },
+    "b2b": {
+      "title": "B2B教育",
+      "description": "企業向けカスタマイズプログラム"
+    },
+    "consulting": {
+      "title": "1:1コンサルティング",
+      "description": "ソウルでの不動産・空間企画・建築プロジェクトに関する専門家との個別セッション"
+    }
+  },
+  "membership": {
+    "title": "メンバーシップ",
+    "subtitle": "あなたに合ったメンバーシップをお選びください",
+    "student": {
+      "title": "学生会員",
+      "price": "無料",
+      "features": [
+        "全プログラム閲覧",
+        "コミュニティアクセス",
+        "月刊ニュースレター",
+        "基本資料ダウンロード"
+      ]
+    },
+    "free": {
+      "title": "無料会員",
+      "price": "無料",
+      "features": [
+        "全プログラム閲覧",
+        "コミュニティアクセス",
+        "月刊ニュースレター",
+        "基本資料ダウンロード",
+        "オンラインイベント参加"
+      ]
+    },
+    "mentor": {
+      "title": "メンター会員",
+      "price": "月10,000円",
+      "features": [
+        "全無料会員特典",
+        "オフラインイベント優先参加",
+        "1:1ネットワーキング機会",
+        "プロジェクト相談リクエスト",
+        "専門家ネットワークアクセス",
+        "エコシステムサポーター認証"
+      ],
+      "description": "不動産オーナー、投資家、業界専門家、先輩方のための特別メンバーシップです。エコシステムを支援し、共に成長しましょう。"
+    },
+    "join": "今すぐ加入",
+    "current_plan": "現在のプラン"
+  },
+  "auth": {
+    "signup_title": "会員登録",
+    "login_title": "ログイン",
+    "email": "メール",
+    "password": "パスワード",
+    "confirm_password": "パスワード確認",
+    "name": "名前",
+    "phone": "電話番号",
+    "member_type": "会員タイプ",
+    "student_id": "学生証（任意）",
+    "agree_terms": "利用規約とプライバシーポリシーに同意します",
+    "subscribe_newsletter": "ニュースレター購読",
+    "signup": "登録する",
+    "login": "ログイン",
+    "already_member": "既に会員ですか？",
+    "not_member": "まだ会員ではありませんか？",
+    "forgot_password": "パスワードをお忘れですか？",
+    "logout_success": "ログアウトしました",
+    "logout_error": "ログアウトに失敗しました",
+    "login_success": "ログイン成功",
+    "login_error": "ログインに失敗しました",
+    "signup_success": "登録成功",
+    "signup_error": "登録に失敗しました",
+    "signing_up": "登録中...",
+    "logging_in": "ログイン中...",
+    "password_mismatch": "パスワードが一致しません",
+    "agree_terms_required": "利用規約に同意してください"
+  },
+  "newsletter": {
+    "title": "ニュースレター購読",
+    "description": "最新ニュースとインサイトを受け取る",
+    "placeholder": "メールアドレス",
+    "subscribe": "購読する",
+    "success": "購読が完了しました！",
+    "error": "購読に失敗しました。もう一度お試しください。"
+  },
+  "footer": {
+    "description": "私たちは都市を設計しない。\n私たちは運営し、実験し、\n共に学ぶ。",
+    "links": "リンク",
+    "contact": "連絡先",
+    "copyright": "© 2025 Soft Developer Club. All rights reserved."
+  },
+  "contact": {
+    "title": "お問い合わせ",
+    "subtitle": "ソウルでの不動産・空間企画・建築プロジェクトに関するコンサルティングはお気軽にご連絡ください",
+    "name": "名前",
+    "email": "メール",
+    "message": "お問い合わせ内容",
+    "send": "送信",
+    "success": "お問い合わせを受け付けました。近日中にご返信いたします。",
+    "address_label": "住所",
+    "address": "大韓民国ソウル特別市江南区\nテヘラン路123\nソフトデベロッパークラブビル5階",
+    "phone_hours": "平日 10:00 - 18:00",
+    "social": "ソーシャル"
+  },
+  "experts": {
+    "title": "メンバー",
+    "subtitle": "ソウルと韓国全域で空間を実験し運営する専門家たち",
+    "not_found": "メンバーが見つかりません",
+    "back_to_list": "メンバー一覧に戻る",
+    "interview_articles": "インタビュー＆記事",
+    "view_all": "全メンバーを見る"
+  },
+  "curriculum": {
+    "title": "カリキュラム",
+    "subtitle": "ソウルでの都市開発と空間企画を学び実験する過程"
+  },
+  "schedule": {
+    "title": "申込",
+    "subtitle": "プログラムスケジュールと申込"
+  },
+  "blog": {
+    "title": "インサイト",
+    "subtitle": "ソウルの空間企画専門家による週刊インサイト",
+    "no_articles": "まだ記事がありません。",
+    "read_more": "続きを読む",
+    "newsletter_title": "ニュースレター購読",
+    "newsletter_subtitle": "ソウルベースの空間専門家から毎週インサイトを受け取る",
+    "newsletter_note": "会員登録時に自動購読されます",
+    "members_only": "会員専用",
+    "members_only_desc": "このページは会員のみ閲覧可能です。",
+    "login_or_signup": "ログインまたは会員登録してアクセスしてください。"
+  },
+  "admin": {
+    "title": "管理者ダッシュボード",
+    "subtitle": "執筆リンク管理と記事管理",
+    "login_title": "管理者ログイン",
+    "password_placeholder": "パスワード",
+    "generate_links": "執筆リンク生成",
+    "select_experts": "専門家を選択",
+    "generate_button": "選択した専門家のリンクを生成",
+    "generated_links": "生成されたリンク",
+    "no_links": "生成されたリンクがありません。",
+    "created": "生成",
+    "used": "使用済み",
+    "copy_link": "リンクをコピー",
+    "link_copied": "リンクがコピーされました！",
+    "articles_management": "記事管理",
+    "no_articles": "登録された記事がありません。",
+    "delete": "削除",
+    "delete_confirm": "本当にこの記事を削除しますか？",
+    "newsletter": "ニュースレター",
+    "weekly_newsletter": "今週のニュースレター",
+    "articles_count": "過去7日間に作成された記事",
+    "articles_included": "含まれる記事：",
+    "send_newsletter": "ニュースレター送信",
+    "sending": "送信中...",
+    "no_articles_week": "今週送信する記事がありません。",
+    "send_confirm": "件の記事をニュースレターで送信しますか？",
+    "newsletter_sent": "ニュースレターが名の購読者に送信されました！",
+    "newsletter_failed": "ニュースレターの送信に失敗しました。",
+    "dev_note": "* 開発環境ではプレビューウィンドウが開きます。",
+    "prod_note": "* 本番環境では購読者にメールが送信されます。"
+  },
+  "writeArticle": {
+    "title": "記事を書く",
+    "greeting": "こんにちは",
+    "title_label": "タイトル",
+    "title_placeholder": "記事のタイトルを入力",
+    "content_label": "内容",
+    "content_placeholder": "内容を入力",
+    "submit": "投稿",
+    "submitting": "投稿中...",
+    "loading": "読み込み中...",
+    "invalid_link": "無効なリンク",
+    "invalid_desc": "このリンクは期限切れまたはすでに使用されています。",
+    "invalid_contact": "新しいリンクが必要な場合は管理者にお問い合わせください。",
+    "success": "記事が正常に投稿されました！",
+    "error": "記事の投稿に失敗しました。もう一度お試しください。"
+  }
+}

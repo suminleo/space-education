@@ -1,0 +1,224 @@
+{
+  "site": {
+    "name": "소프트 디벨로퍼 클럽",
+    "tagline": "우리는 도시를 설계하지 않는다",
+    "subtitle": "우리는 도시를 운영하고, 실험하고, 함께 배운다"
+  },
+  "nav": {
+    "about": "소개",
+    "members": "멤버",
+    "programs": "프로그램",
+    "apply": "신청",
+    "contact": "문의",
+    "login": "로그인",
+    "signup": "회원가입",
+    "logout": "로그아웃",
+    "membership": "멤버십",
+    "blog": "인사이트"
+  },
+  "home": {
+    "hero_title": "우리는 도시를\n설계하지 않는다",
+    "hero_subtitle": "우리는 도시를 운영하고, 실험하고, 함께 배운다",
+    "view_programs": "프로그램 보기",
+    "philosophy_title": "소프트 디벨로퍼 클럽",
+    "philosophy_desc1": "공간은 단순히 설계되는 것이 아니라, 운영되고 진화합니다.",
+    "philosophy_desc2": "우리는 도시와 공간을 실험의 대상으로 보고, 끊임없이 배우며 함께 성장하는 커뮤니티입니다.",
+    "members_title": "멤버",
+    "members_subtitle": "각자의 분야에서 공간을 실험하는 사람들",
+    "view_all_members": "모든 멤버 보기",
+    "programs_title": "프로그램",
+    "programs_subtitle": "각자의 필요에 맞는 학습 과정",
+    "cta_title": "함께 배우고\n함께 실험하세요",
+    "cta_subtitle": "소프트 디벨로퍼 클럽과 함께하는 공간 교육",
+    "apply_now": "신청하기",
+    "contact_us": "문의하기"
+  },
+  "programs": {
+    "students": {
+      "title": "학생 과정",
+      "description": "공간 기획의 기초부터 실전까지"
+    },
+    "entrepreneurs": {
+      "title": "창업가 과정",
+      "description": "공간 비즈니스의 모든 것"
+    },
+    "b2b": {
+      "title": "B2B 교육",
+      "description": "기업을 위한 맞춤형 프로그램"
+    },
+    "consulting": {
+      "title": "1:1 컨설팅",
+      "description": "전문가와의 개인 세션"
+    }
+  },
+  "membership": {
+    "title": "멤버십",
+    "subtitle": "당신에게 맞는 멤버십을 선택하세요",
+    "student": {
+      "title": "학생 회원",
+      "price": "무료",
+      "features": [
+        "모든 프로그램 열람",
+        "커뮤니티 접근",
+        "월간 뉴스레터",
+        "기본 자료 다운로드"
+      ]
+    },
+    "free": {
+      "title": "무료 회원",
+      "price": "무료",
+      "features": [
+        "모든 프로그램 열람",
+        "커뮤니티 접근",
+        "월간 뉴스레터",
+        "기본 자료 다운로드",
+        "온라인 이벤트 참여"
+      ]
+    },
+    "mentor": {
+      "title": "멘토 회원",
+      "price": "월 100,000원",
+      "features": [
+        "모든 무료 회원 혜택",
+        "오프라인 이벤트 우선 참여",
+        "1:1 네트워킹 기회",
+        "프로젝트 자문 요청",
+        "전문가 네트워크 접근",
+        "생태계 후원자 인증"
+      ],
+      "description": "건물주, 투자자, 업계 전문가, 선배들을 위한 특별 멤버십입니다. 생태계를 후원하고 함께 성장하세요."
+    },
+    "join": "가입하기",
+    "current_plan": "현재 플랜"
+  },
+  "auth": {
+    "signup_title": "회원가입",
+    "login_title": "로그인",
+    "email": "이메일",
+    "password": "비밀번호",
+    "confirm_password": "비밀번호 확인",
+    "name": "이름",
+    "phone": "연락처",
+    "member_type": "회원 유형",
+    "student_id": "학생증 (선택)",
+    "agree_terms": "이용약관 및 개인정보처리방침에 동의합니다",
+    "subscribe_newsletter": "뉴스레터 구독",
+    "signup": "가입하기",
+    "login": "로그인",
+    "already_member": "이미 회원이신가요?",
+    "not_member": "아직 회원이 아니신가요?",
+    "forgot_password": "비밀번호를 잊으셨나요?",
+    "logout_success": "로그아웃되었습니다",
+    "logout_error": "로그아웃에 실패했습니다",
+    "login_success": "로그인 성공",
+    "login_error": "로그인에 실패했습니다",
+    "signup_success": "회원가입 성공",
+    "signup_error": "회원가입에 실패했습니다",
+    "signing_up": "가입 중...",
+    "logging_in": "로그인 중...",
+    "password_mismatch": "비밀번호가 일치하지 않습니다",
+    "agree_terms_required": "이용약관에 동의해주세요"
+  },
+  "newsletter": {
+    "title": "뉴스레터 구독",
+    "description": "최신 소식과 인사이트를 받아보세요",
+    "placeholder": "이메일 주소",
+    "subscribe": "구독하기",
+    "success": "구독이 완료되었습니다!",
+    "error": "구독에 실패했습니다. 다시 시도해주세요."
+  },
+  "footer": {
+    "description": "우리는 도시를 설계하지 않는다.\n우리는 도시를 운영하고,\n실험하고, 함께 배운다.",
+    "links": "링크",
+    "contact": "연락처",
+    "copyright": "© 2025 Soft Developer Club. All rights reserved."
+  },
+  "contact": {
+    "title": "문의",
+    "subtitle": "궁금한 점이 있으시다면 언제든지 연락주세요",
+    "name": "이름",
+    "email": "이메일",
+    "message": "문의 내용",
+    "send": "보내기",
+    "success": "문의가 접수되었습니다. 빠른 시일 내에 답변 드리겠습니다.",
+    "address_label": "주소",
+    "address": "서울특별시 강남구\n테헤란로 123\n소프트 디벨로퍼 클럽 빌딩 5층",
+    "phone_hours": "평일 10:00 - 18:00",
+    "social": "소셜"
+  },
+  "experts": {
+    "title": "멤버",
+    "subtitle": "각자의 분야에서 공간을 실험하고 운영하는 사람들",
+    "not_found": "멤버를 찾을 수 없습니다",
+    "back_to_list": "멤버 목록으로 돌아가기",
+    "interview_articles": "인터뷰 & 기사",
+    "view_all": "모든 멤버 보기"
+  },
+  "curriculum": {
+    "title": "커리큘럼",
+    "subtitle": "공간을 배우고 실험하는 과정"
+  },
+  "schedule": {
+    "title": "신청",
+    "subtitle": "프로그램 일정과 신청"
+  },
+  "blog": {
+    "title": "인사이트",
+    "subtitle": "전문가들이 매주 전하는 공간에 대한 이야기",
+    "no_articles": "아직 작성된 글이 없습니다.",
+    "read_more": "더 읽기",
+    "newsletter_title": "뉴스레터 구독",
+    "newsletter_subtitle": "매주 전문가들의 인사이트를 이메일로 받아보세요",
+    "newsletter_note": "회원가입 시 자동으로 구독됩니다",
+    "members_only": "회원 전용",
+    "members_only_desc": "이 페이지는 회원만 볼 수 있습니다.",
+    "login_or_signup": "로그인하거나 회원가입을 해주세요."
+  },
+  "admin": {
+    "title": "관리자 대시보드",
+    "subtitle": "글쓰기 링크 관리 및 게시글 관리",
+    "login_title": "관리자 로그인",
+    "password_placeholder": "비밀번호",
+    "generate_links": "글쓰기 링크 생성",
+    "select_experts": "전문가 선택",
+    "generate_button": "선택한 전문가에게 링크 생성",
+    "generated_links": "생성된 링크",
+    "no_links": "생성된 링크가 없습니다.",
+    "created": "생성",
+    "used": "사용됨",
+    "copy_link": "링크 복사",
+    "link_copied": "링크가 복사되었습니다!",
+    "articles_management": "게시글 관리",
+    "no_articles": "등록된 글이 없습니다.",
+    "delete": "삭제",
+    "delete_confirm": "정말 이 글을 삭제하시겠습니까?",
+    "newsletter": "뉴스레터",
+    "weekly_newsletter": "이번 주 뉴스레터",
+    "articles_count": "지난 7일간 작성된 글",
+    "articles_included": "포함될 글:",
+    "send_newsletter": "뉴스레터 발송",
+    "sending": "발송 중...",
+    "no_articles_week": "이번 주에 발송할 글이 없습니다.",
+    "send_confirm": "개의 글을 뉴스레터로 발송하시겠습니까?",
+    "newsletter_sent": "뉴스레터가 명의 구독자에게 발송되었습니다!",
+    "newsletter_failed": "뉴스레터 발송에 실패했습니다.",
+    "dev_note": "* 개발 환경에서는 미리보기 창이 열립니다.",
+    "prod_note": "* 실제 환경에서는 구독자들에게 이메일이 발송됩니다."
+  },
+  "writeArticle": {
+    "title": "글 작성",
+    "greeting": "안녕하세요",
+    "title_label": "제목",
+    "title_placeholder": "글 제목을 입력하세요",
+    "content_label": "내용",
+    "content_placeholder": "내용을 입력하세요",
+    "submit": "글 등록",
+    "submitting": "등록 중...",
+    "loading": "로딩 중...",
+    "invalid_link": "유효하지 않은 링크",
+    "invalid_desc": "이 링크는 만료되었거나 이미 사용되었습니다.",
+    "invalid_contact": "새로운 링크가 필요하시면 관리자에게 문의해주세요.",
+    "success": "글이 성공적으로 등록되었습니다!",
+    "error": "글 등록에 실패했습니다. 다시 시도해주세요."
+  }
+}
